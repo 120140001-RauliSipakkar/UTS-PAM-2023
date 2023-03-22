@@ -1,0 +1,222 @@
+{
+	  "Pencarian": [
+	    {
+	      "id": 1,
+	      "LokasiOlahraga": "Antasari",
+	      "Lokasi awal": "Gedung F",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 2,
+	      "LokasiAwal": "Gedung F",
+	      "LokasiOlahraga": "Antasari",
+	
+	      “jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 3,
+	      "LokasiAwal": "Tanjung Karang",
+	      "LokasiOlahraga": "Antasari",
+	
+	      “jam": "08.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 4,
+	      "LokasiAwal": "Antasari",
+	      "LokasiOlahraga": " Tanjung Karang ",
+	
+	      “jam": "08.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 5,
+	      "LokasiAwal": "Korpri",
+	      "LokasiOlahraga": " Antasari ",
+	
+	      “jam": "09.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 6,
+	      "LokasiAwal": "Antasari",
+	      "LokasiOlahraga": " Korpri ",
+	
+	      “jam": "09.15 – 21:00"
+      "Hari": "Senin-sabtu"
+	    }
+	  ],
+	
+	  "daftarPembatalan": [
+	    {
+	      "id": 1,
+	      "LokasiOlahraga": "Antasari",
+	      "Lokasi awal": "Gedung F",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 2,
+	      "LokasiAwal": "Gedung F",
+	      "LokasiOlahraga": "Antasari",
+	
+	      “jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 3,
+	      "pelabuhanAwal": "Tanjung Mas",
+	      "pelabuhanTujuan": "Guluk",
+	      "tgl": "Kamis, 22 Mei 2021",
+	      "jam": "19.00"
+	    },
+	    {
+	      "id": 4,
+	      "LokasiAwal": "Antasari",
+	      "LokasiOlahraga": " Tanjung Karang ",
+	
+	      “jam": "08.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 5,
+	      "LokasiAwal": "Korpri",
+	      "LokasiOlahraga": " Antasari ",
+	
+	      “jam": "09.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	    },
+	    {
+	      "id": 6,
+	      "LokasiAwal": "Antasari",
+	      "LokasiOlahraga": " Korpri ",
+	
+	      “jam": "09.15 – 21:00"
+      "Hari": "Senin-sabtu"
+	    }
+	  ],
+	
+	  "daftarPembayaran": [
+	    {
+	      "id": 1,
+	      "LokasiOlahraga": "Antasari",
+	      "Lokasi awal": "Gedung F",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Ovo"
+
+
+	    },
+	    {
+	      "id": 2,
+	      "LokasiOlahraga": "Gedung F",
+	      "Lokasi awal": " Antasari ",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Dana"
+
+
+	    },
+	    {
+	      "id": 3,
+	      "LokasiAwal": "Tanjung Karang",
+	      "LokasiOlahraga": "Antasari",
+	
+	      “jam": "08.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Gopay"
+
+
+	    },
+	    {
+	      "id": 4,
+	      "LokasiAwal": "Antasari",
+	      "LokasiOlahraga": " Tanjung Karang ",
+	
+	      “jam": "08.15 – 21:00",
+      "Hari": "Senin-sabtu"
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Linkaja"
+
+
+	    }
+	  ],
+	  "riwayatlokasi": [
+	    {
+	      "id": 1,
+	      "LokasiOlahraga": "Antasari",
+	      "Lokasi awal": "Gedung F",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Ovo"
+      “Harga”:”100”
+
+
+	    },
+	    {
+	      "id": 2,
+	      "LokasiOlahraga": "Gedung F",
+	      "Lokasi awal": " Antasari ",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Dana"
+	
+	      “Harga”:”100”
+	
+	    },
+	    {
+	      "id": 3,
+	      "LokasiOlahraga": "Gedung F",
+	      "Lokasi awal": " Antasari ",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Dana"
+      “Harga”:”100”
+
+
+
+
+	    },
+	    {
+	      "id": 4,
+	      "LokasiOlahraga": "Gedung F",
+	      "Lokasi awal": " Antasari ",
+	
+	      "jam": "07.15 – 21:00",
+      "Hari": "Senin-sabtu",
+	      "layanan": "Ekspres",
+	      "kategori": "Dewasa",
+	      "Alatpembayaran": "Dana"
+      “Harga”:”100”
+
+
+
+
+	    }
+	  ],
+	  "layanan": ["Expres", "Normal"],
+	  "kategori": ["Dewasa"]
+	}
+
